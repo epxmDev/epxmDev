@@ -43,4 +43,4 @@ No public language data yet — building the first project in the open.
 
 <a href="https://github.com/epxmdev">GitHub</a>
 
-<p align="center"><sub>EpxmDev · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
