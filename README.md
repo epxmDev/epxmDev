@@ -1,16 +1,46 @@
-## Hi there 👋
+## Systems profile
 
-<!--
-**epxmDev/epxmDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><code>epxmdev@github:~$ whoami</code></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=epxmdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279514177%3Fu%3D6d4ccba265212089f3a2bc030cf1f816eb1915f6%26v%3D4&style=terminal" alt="epxmdev hero visual" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**EpxmDev** · Product-minded developer
+
+## Runtime notes
+
+<pre><code>ROLE        = Product-minded developer
+LOCATION    = remote
+PUBLIC_REPOS = 1
+COMMUNITY   = 0 followers</code></pre>
+
+Building useful things and learning in public.
+
+## Service toolkit
+
+No public language data yet — building the first project in the open.
+
+## System signals
+
+<table>
+<tr><td align="center"><b>1</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>3</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Reliable work
+
+- [epxmDev](https://github.com/epxmDev/epxmDev) — open source · 0 stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=epxmdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279514177%3Fu%3D6d4ccba265212089f3a2bc030cf1f816eb1915f6%26v%3D4" alt="epxmdev heatmap visual" />
+</p>
+
+## Open a channel
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=epxmdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279514177%3Fu%3D6d4ccba265212089f3a2bc030cf1f816eb1915f6%26v%3D4" alt="epxmdev social visual" />
+</p>
+
+<a href="https://github.com/epxmdev">GitHub</a>
+
+<p align="center"><sub>EpxmDev · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
