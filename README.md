@@ -12,7 +12,7 @@
 
 <pre><code>ROLE        = Discord Bot devlopper
 LOCATION    = 🇫🇷 France
-PUBLIC_REPOS = 0
+PUBLIC_REPOS = 3
 COMMUNITY   = 0 followers</code></pre>
 
 Building Discord Bot
