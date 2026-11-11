@@ -3,7 +3,7 @@
 
 <pre><code>ROLE        = Front End devlopper
 LOCATION    = 🇫🇷 France
-PUBLIC_REPOS = 3
+PUBLIC_REPOS = 2
 COMMUNITY   = 0 followers</code></pre>
 
 
