@@ -1,15 +1,7 @@
-## Systems profile
-
-<p><code>epxmdev@github:~$ whoami</code></p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=epxmdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279514177%3Fu%3D6d4ccba265212089f3a2bc030cf1f816eb1915f6%26v%3D4&style=terminal" alt="epxmdev hero visual" />
-</p>
-
 
 ## Runtime notes
 
-<pre><code>ROLE        = 
+<pre><code>ROLE        = Front End devlopper
 LOCATION    = 🇫🇷 France
 PUBLIC_REPOS = 3
 COMMUNITY   = 0 followers</code></pre>
